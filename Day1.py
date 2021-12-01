@@ -1,4 +1,4 @@
-a = """ """  # Paste the multiline input here
+a = """Paste the multiline input here"""
 a = list(map(int, a.split()))
 t = 0
 for i in range(1, len(a)):
